@@ -7,7 +7,7 @@
 Booky is a french start-up travel agency. 
 
 ## 🔹 Live Demo
-[👉 Visiter le site en ligne](https://t-aguirre.github.io/Booky/)
+👉  [Visiter le site en ligne](https://t-aguirre.github.io/Booky/)
 
 ## 🔹 Objective
 
